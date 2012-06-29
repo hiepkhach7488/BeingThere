@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_ethz_test
+END
+kinectNui.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/27/examples/opengl_ethz_test/kinectNui.h
+END
+grid_mesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/grid_mesh.cpp
+END
+algebra.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/algebra.h
+END
+scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/scene.h
+END
+kinect.calib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/kinect.calib
+END
+grid_mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/grid_mesh.h
+END
+kinect_depth_camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/beingthere_tp/!svn/ver/27/examples/opengl_ethz_test/kinect_depth_camera.cpp
+END
+opengl_ethz_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_ethz_test/opengl_ethz_test.cpp
+END
+kinect_depth_camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/kinect_depth_camera.h
+END
+gl_tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/gl_tools.cpp
+END
+fgbg_segmentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/fgbg_segmentation.cpp
+END
+kinect_color_camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/kinect_color_camera.cpp
+END
+depth_inpainting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/depth_inpainting.cpp
+END
+gl_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/gl_tools.h
+END
+fgbg_segmentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/fgbg_segmentation.h
+END
+camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/27/examples/opengl_ethz_test/camera.cpp
+END
+kinect_color_camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/kinect_color_camera.h
+END
+kinectNui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/27/examples/opengl_ethz_test/kinectNui.cpp
+END
+depth_inpainting.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/depth_inpainting.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_ethz_test/CMakeLists.txt
+END
+camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/27/examples/opengl_ethz_test/camera.h
+END
+scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/scene.cpp
+END

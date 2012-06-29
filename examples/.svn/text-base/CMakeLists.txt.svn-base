@@ -1,0 +1,47 @@
+SET(CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/../cmake")
+INCLUDE(MacroOptionalAddSubdirectory)
+
+FILE (GLOB examples_sbudirs */CMakeLists.txt)
+foreach(subdir ${examples_sbudirs})
+        get_filename_component (dir ${subdir} PATH)
+        list(APPEND PCL_EXAMPLES_SUBDIRS ${dir})
+endforeach(subdir)
+
+foreach(subdir ${PCL_EXAMPLES_SUBDIRS})
+    add_subdirectory(${subdir})
+	#MACRO_OPTIONAL_ADD_SUBDIRECTORY(${subdir})
+endforeach(subdir)
+	
+# add_subdirectory(kinect_capture)
+# add_subdirectory(multicam_capture)
+# add_subdirectory(kinect_calibration)
+# add_subdirectory(pose_estimation)
+# add_subdirectory(kinfu_app)
+# add_subdirectory(record_tsdf)
+# add_subdirectory(robust_planar_pose)
+# add_subdirectory(multicam_fusion)
+# add_subdirectory(cuda_app)
+
+# add_subdirectory(opengl_buffer_access)
+# add_subdirectory(opengl_shader_mvp)
+# add_subdirectory(opengl_pointcloud_renderer)
+# add_subdirectory(opengl_triangle_fusion)
+# add_subdirectory(opengl_texture_buffer_fbo)
+# add_subdirectory(opengl_transform_feedback)
+# add_subdirectory(opengl_vbo)
+# add_subdirectory(opengl_vertex_array)
+# add_subdirectory(opengl_geometry_cloud)
+# add_subdirectory(opengl_geometry_triangle)
+# add_subdirectory(opengl_draw_primitives)
+# add_subdirectory(opengl_arc_ball)
+# add_subdirectory(opengl_cg_vertex)
+# add_subdirectory(opengl_cg_wave)
+# add_subdirectory(opengl_cg_undistort)
+# add_subdirectory(opengl_ethz_test)
+# add_subdirectory(opengl_cg_segmentation)
+# add_subdirectory(opengl_color_depth_segmentation)
+# add_subdirectory(opengl_v3d_test)
+
+	
+
+

@@ -1,0 +1,49 @@
+// Prox for the quadratic function gamma*[0.5*rho*(u-uOrig)^2]
+float
+prox_quadratic(float const gamma, float const rho, float const uOrig, float u)
+{
+   return (u + gamma*rho*uOrig) / (1.0f + gamma*rho);
+}
+
+void main(uniform sampler2D u_src  : TEXUNIT0,
+          uniform sampler2D p_src  : TEXUNIT1, // (p1, p2)
+          uniform sampler2D u0_src : TEXUNIT2,
+                  float2 st0  : TEXCOORD0,
+                  float4 stEW : TEXCOORD1,
+                  float4 stSN : TEXCOORD2,
+          uniform float theta,
+              out float u_out : COLOR0)
+{
+   float const rho = 10.0f;
+   // u0 > 0 means defined (known) depth, u0 < 0 means outside domain, u0 == 0 means inside region to be inpainted
+   float const u0 = tex2D(u0_src, st0).x;
+
+   float u = tex2D(u_src, st0).x;
+
+   float2 stW = stEW.zw;
+   float2 stN = stSN.zw;
+
+   bool const isLeftBorder   = (stW.x < 0);
+   bool const isRightBorder  = (stEW.x > 1);
+   bool const isTopBorder    = (stN.y < 0);
+   bool const isBottomBorder = (stSN.y > 1);
+
+   float2 p   = tex2D(p_src, st0).xy;
+   float  p_W = tex2D(p_src, stW).x;
+   float  p_N = tex2D(p_src, stN).y;
+
+   p_W = isLeftBorder ? 0 : p_W;
+   p_N = isTopBorder ? 0 : p_N;
+   p.x = isRightBorder ? 0 : p.x;
+   p.y = isBottomBorder ? 0 : p.y;
+
+   float div_p = p.x - p_W + p.y - p_N;
+#if 1
+   float v = (u0 > 0) ? u0 : u;
+#else
+   float v = (u0 > 0) ? prox_quadratic(theta, rho, u0, u) : u;
+#endif
+   u = v + theta*div_p;
+
+   u_out = (u0 >= 0.0f) ? u : -1.0f;
+}

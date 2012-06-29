@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/io
+END
+debayering.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/io/debayering.h
+END
+host_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/io/host_device.h
+END
+disparity_to_cloud.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/io/disparity_to_cloud.h
+END
+predicate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/io/predicate.h
+END
+kinect_smoothing.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/io/kinect_smoothing.h
+END
+cloud_to_pcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/io/cloud_to_pcl.h
+END
+cloud_from_pcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/io/cloud_from_pcl.h
+END
+extract_indices.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/io/extract_indices.h
+END

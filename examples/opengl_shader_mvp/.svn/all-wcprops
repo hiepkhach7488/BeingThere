@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_shader_mvp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_shader_mvp/CMakeLists.txt
+END
+opengl_shader_mvp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_shader_mvp/opengl_shader_mvp.cpp
+END

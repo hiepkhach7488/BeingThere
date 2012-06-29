@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/20/examples/opengl_draw_primitives/shader
+END
+draw_primitives.frag
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/beingthere_tp/!svn/ver/20/examples/opengl_draw_primitives/shader/draw_primitives.frag
+END
+draw_primitives.vert
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/beingthere_tp/!svn/ver/20/examples/opengl_draw_primitives/shader/draw_primitives.vert
+END
+draw_primitives.geom
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/beingthere_tp/!svn/ver/20/examples/opengl_draw_primitives/shader/draw_primitives.geom
+END

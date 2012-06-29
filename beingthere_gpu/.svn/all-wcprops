@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/beingthere_tp/!svn/ver/32/beingthere_gpu
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/beingthere_tp/!svn/ver/32/beingthere_gpu/CMakeLists.txt
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/beingthere_tp/!svn/ver/8/beingthere_gpu/common.h
+END
+common_kernel.cu
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/beingthere_tp/!svn/ver/8/beingthere_gpu/common_kernel.cu
+END

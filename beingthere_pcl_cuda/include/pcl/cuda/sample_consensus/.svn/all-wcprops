@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/sample_consensus
+END
+sac_model_1point_plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/sample_consensus/sac_model_1point_plane.h
+END
+multi_ransac.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/sample_consensus/multi_ransac.h
+END
+msac.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/sample_consensus/msac.h
+END
+sac_model_plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/sample_consensus/sac_model_plane.h
+END
+sac.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/sample_consensus/sac.h
+END
+sac_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/sample_consensus/sac_model.h
+END
+ransac.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/sample_consensus/ransac.h
+END

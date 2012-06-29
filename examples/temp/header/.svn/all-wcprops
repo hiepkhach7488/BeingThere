@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header
+END
+fusion_renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/fusion_renderer.h
+END
+kinect_visualization.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/kinect_visualization.h
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/Exception.h
+END
+kinect_capture.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/kinect_capture.h
+END
+volumemetric_rendering.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/volumemetric_rendering.h
+END
+FileSequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/FileSequence.h
+END
+openni_capture.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/openni_capture.h
+END
+color_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/color_handler.h
+END
+ImageSequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/ImageSequence.h
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/internal.h
+END
+PlainFileParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/PlainFileParser.h
+END
+macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/macros.h
+END
+Filesystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/Filesystem.h
+END
+tsdf_volume.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/tsdf_volume.hpp
+END
+tsdf_volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/1/examples/temp/header/tsdf_volume.h
+END

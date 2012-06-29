@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/include/pcl/gpu/kinfu
+END
+marching_cubes.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/include/pcl/gpu/kinfu/marching_cubes.h
+END
+pixel_rgb.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/include/pcl/gpu/kinfu/pixel_rgb.h
+END
+kinfu.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/include/pcl/gpu/kinfu/kinfu.h
+END
+raycaster.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/include/pcl/gpu/kinfu/raycaster.h
+END
+color_volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/include/pcl/gpu/kinfu/color_volume.h
+END
+tsdf_volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/include/pcl/gpu/kinfu/tsdf_volume.h
+END

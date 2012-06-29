@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/beingthere_tp/!svn/ver/10/externals/freeglut-2.6.0/GL
+END
+glut.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/10/externals/freeglut-2.6.0/GL/glut.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/10/externals/freeglut-2.6.0/GL/Makefile.in
+END
+freeglut.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/10/externals/freeglut-2.6.0/GL/freeglut.h
+END
+freeglut_ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/10/externals/freeglut-2.6.0/GL/freeglut_ext.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/10/externals/freeglut-2.6.0/GL/Makefile.am
+END
+freeglut_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/10/externals/freeglut-2.6.0/GL/freeglut_std.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/11/examples/graphic_interoperation
+END
+book.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/11/examples/graphic_interoperation/book.h
+END
+gl_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/11/examples/graphic_interoperation/gl_helper.h
+END
+cpu_bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/11/examples/graphic_interoperation/cpu_bitmap.h
+END
+main.cu
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/11/examples/graphic_interoperation/main.cu
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beingthere_tp/!svn/ver/11/examples/graphic_interoperation/CMakeLists.txt
+END

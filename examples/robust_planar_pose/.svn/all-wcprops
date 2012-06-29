@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/beingthere_tp/!svn/ver/3/examples/robust_planar_pose
+END
+RPP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/3/examples/robust_planar_pose/RPP.cpp
+END
+demo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/3/examples/robust_planar_pose/demo.cpp
+END
+Rpoly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/3/examples/robust_planar_pose/Rpoly.cpp
+END
+RPP.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/3/examples/robust_planar_pose/RPP.h
+END
+Rpoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/3/examples/robust_planar_pose/Rpoly.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/3/examples/robust_planar_pose/CMakeLists.txt
+END

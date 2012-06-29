@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/beingthere_tp/!svn/ver/32/examples/pcl_cloud_fusion
+END
+data_fusion.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/32/examples/pcl_cloud_fusion/data_fusion.h
+END
+calibration_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beingthere_tp/!svn/ver/32/examples/pcl_cloud_fusion/calibration_loader.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/32/examples/pcl_cloud_fusion/CMakeLists.txt
+END
+cuda_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/32/examples/pcl_cloud_fusion/cuda_app.cpp
+END
+data_fusion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/examples/pcl_cloud_fusion/data_fusion.cpp
+END
+calibration_loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/beingthere_tp/!svn/ver/32/examples/pcl_cloud_fusion/calibration_loader.cpp
+END

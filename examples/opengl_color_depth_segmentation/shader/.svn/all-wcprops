@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_color_depth_segmentation/shader
+END
+vertex.vs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_color_depth_segmentation/shader/vertex.vs
+END
+convert_texture.fs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_color_depth_segmentation/shader/convert_texture.fs
+END
+depth_to_rgb.fs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_color_depth_segmentation/shader/depth_to_rgb.fs
+END

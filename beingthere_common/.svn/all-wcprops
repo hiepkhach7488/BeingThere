@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/beingthere_tp/!svn/ver/41/beingthere_common
+END
+beingthere_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/41/beingthere_common/beingthere_config.h
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/common.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/config.h
+END
+beingthere_config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/beingthere_config.h.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/CMakeLists.txt
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/common.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/beingthere_tp/!svn/ver/10/externals/glew-1.7.0/src
+END
+glew.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/10/externals/glew-1.7.0/src/glew.c
+END
+visualinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/10/externals/glew-1.7.0/src/visualinfo.c
+END
+glewinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/10/externals/glew-1.7.0/src/glewinfo.c
+END

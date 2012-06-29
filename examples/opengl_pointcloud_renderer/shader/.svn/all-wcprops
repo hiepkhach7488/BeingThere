@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/19/examples/opengl_pointcloud_renderer/shader
+END
+point_cloud.frag
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/beingthere_tp/!svn/ver/18/examples/opengl_pointcloud_renderer/shader/point_cloud.frag
+END
+point_cloud.vert
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/beingthere_tp/!svn/ver/19/examples/opengl_pointcloud_renderer/shader/point_cloud.vert
+END

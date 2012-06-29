@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_color_depth_segmentation
+END
+opengl_color_depth_segmentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_color_depth_segmentation/opengl_color_depth_segmentation.cpp
+END
+v3d_common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_color_depth_segmentation/v3d_common.cpp
+END
+v3d_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_color_depth_segmentation/v3d_common.h
+END
+v3d_common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_color_depth_segmentation/v3d_common.hpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_color_depth_segmentation/CMakeLists.txt
+END

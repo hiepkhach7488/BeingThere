@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/filters
+END
+voxel_grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/filters/voxel_grid.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/filters/filter.h
+END
+passthrough.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/filters/passthrough.h
+END

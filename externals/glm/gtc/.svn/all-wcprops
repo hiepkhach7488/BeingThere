@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc
+END
+matrix_transform.inl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/matrix_transform.inl
+END
+matrix_inverse.inl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/matrix_inverse.inl
+END
+half_float.inl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/half_float.inl
+END
+type_precision.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/type_precision.hpp
+END
+matrix_transform.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/matrix_transform.hpp
+END
+matrix_inverse.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/matrix_inverse.hpp
+END
+half_float.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/half_float.hpp
+END
+type_ptr.inl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/type_ptr.inl
+END
+swizzle.inl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/swizzle.inl
+END
+type_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/type_ptr.hpp
+END
+swizzle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/swizzle.hpp
+END
+random.inl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/random.inl
+END
+random.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/random.hpp
+END
+quaternion.inl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/quaternion.inl
+END
+matrix_access.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/matrix_access.inl
+END
+matrix_integer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/matrix_integer.hpp
+END
+quaternion.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/quaternion.hpp
+END
+matrix_access.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/matrix_access.hpp
+END
+type_precision.inl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/11/externals/glm/gtc/type_precision.inl
+END

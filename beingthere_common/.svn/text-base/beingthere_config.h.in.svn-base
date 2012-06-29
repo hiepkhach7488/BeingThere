@@ -1,0 +1,16 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#include "stdio.h"
+#include <stdlib.h> 
+#include <iostream>
+#include <string>
+
+using std::string;
+using namespace std;
+
+string const BEINGTHERE_ROOT_DIR = "@BEINGTHERE_ROOT_DIR@";
+string const BEINGTHERE_COMMON_ROOT_DIR = "@BEINGTHERE_COMMON_ROOT_DIR@";
+string const BEINGTHERE_EXAMPLE_ROOT_DIR = "@BEINGTHERE_EXAMPLE_ROOT_DIR@";
+
+#endif // CONFIG_H

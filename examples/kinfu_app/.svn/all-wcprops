@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/beingthere_tp/!svn/ver/32/examples/kinfu_app
+END
+color_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/1/examples/kinfu_app/color_handler.h
+END
+openni_capture.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/1/examples/kinfu_app/openni_capture.h
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/1/examples/kinfu_app/internal.h
+END
+capture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/beingthere_tp/!svn/ver/1/examples/kinfu_app/capture.cpp
+END
+evaluation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/1/examples/kinfu_app/evaluation.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/32/examples/kinfu_app/CMakeLists.txt
+END
+evaluation.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/beingthere_tp/!svn/ver/1/examples/kinfu_app/evaluation.h
+END
+kinfu_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/1/examples/kinfu_app/kinfu_app.cpp
+END
+tsdf_volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/1/examples/kinfu_app/tsdf_volume.h
+END
+tsdf_volume.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/1/examples/kinfu_app/tsdf_volume.hpp
+END

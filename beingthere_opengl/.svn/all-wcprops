@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/beingthere_tp/!svn/ver/32/beingthere_opengl
+END
+glslprogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/27/beingthere_opengl/glslprogram.h
+END
+ArcBall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/beingthere_tp/!svn/ver/23/beingthere_opengl/ArcBall.cpp
+END
+glutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/beingthere_tp/!svn/ver/13/beingthere_opengl/glutils.cpp
+END
+ArcBall.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/beingthere_tp/!svn/ver/23/beingthere_opengl/ArcBall.h
+END
+glutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/beingthere_tp/!svn/ver/13/beingthere_opengl/glutils.h
+END
+glslprogram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/27/beingthere_opengl/glslprogram.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/32/beingthere_opengl/CMakeLists.txt
+END

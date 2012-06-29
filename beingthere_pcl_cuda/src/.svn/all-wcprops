@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src
+END
+debayering.cu
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/debayering.cu
+END
+host_device.cu
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/host_device.cu
+END
+normal_3d.cu
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/normal_3d.cu
+END
+sac_model_1point_plane.cu
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/sac_model_1point_plane.cu
+END
+disparity_to_cloud.cu
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/disparity_to_cloud.cu
+END
+cloud_to_pcl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/cloud_to_pcl.cpp
+END
+multi_ransac.cu
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/multi_ransac.cu
+END
+sac_model_plane.cu
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/sac_model_plane.cu
+END
+sac_model.cu
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/sac_model.cu
+END
+connected_components.cu
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/connected_components.cu
+END
+ransac.cu
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/ransac.cu
+END
+extract_indices.cu
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/extract_indices.cu
+END
+mssegmentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/src/mssegmentation.cpp
+END

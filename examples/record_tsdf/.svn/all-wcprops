@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/beingthere_tp/!svn/ver/32/examples/record_tsdf
+END
+openni_capture.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/1/examples/record_tsdf/openni_capture.h
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/beingthere_tp/!svn/ver/1/examples/record_tsdf/internal.h
+END
+capture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/1/examples/record_tsdf/capture.cpp
+END
+record_tsdfvolume.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/1/examples/record_tsdf/record_tsdfvolume.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/32/examples/record_tsdf/CMakeLists.txt
+END
+tsdf_volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/1/examples/record_tsdf/tsdf_volume.h
+END
+tsdf_volume.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/1/examples/record_tsdf/tsdf_volume.hpp
+END

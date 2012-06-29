@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/beingthere_tp/!svn/ver/41/beingthere_v3d/GL
+END
+v3d_gpubinarysegmentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/24/beingthere_v3d/GL/v3d_gpubinarysegmentation.h
+END
+v3d_gpubase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/26/beingthere_v3d/GL/v3d_gpubase.cpp
+END
+v3d_gpuundistort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/26/beingthere_v3d/GL/v3d_gpuundistort.cpp
+END
+v3d_gpubase.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/24/beingthere_v3d/GL/v3d_gpubase.h
+END
+v3d_gpuundistort.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/26/beingthere_v3d/GL/v3d_gpuundistort.h
+END
+v3d_gpubinarysegmentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/beingthere_tp/!svn/ver/41/beingthere_v3d/GL/v3d_gpubinarysegmentation.cpp
+END

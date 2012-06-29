@@ -1,0 +1,161 @@
+10
+
+dir
+42
+https://beingthere.unfuddle.com/svn/beingthere_tp/examples
+https://beingthere.unfuddle.com/svn/beingthere_tp
+
+
+
+2012-05-14T10:31:42.083313Z
+42
+hiepkhach7488
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3ca55bd9-0cde-49b3-a075-f8502f9e775b
+
+opengl_cg_wave
+dir
+
+opengl_transform_feedback
+dir
+
+opengl_color_depth_segmentation
+dir
+
+opengl_geometry_triangle
+dir
+
+opengl_triangle_fusion
+dir
+
+opengl_shader_mvp
+dir
+
+record_tsdf
+dir
+
+multicam_capture
+dir
+
+graphic_interoperation
+dir
+
+multicam_capture_sdk
+dir
+
+kinect_capture
+dir
+
+opengl_arc_ball
+dir
+
+temp
+dir
+
+kinect_calibration_intrinsic
+dir
+
+opengl_cg_undistort
+dir
+
+opengl_draw_primitives
+dir
+
+kinect_calibration_extrinsic
+dir
+
+opengl_ethz_test
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-06-29T05:56:30.880972Z
+43ef1099f2a99c3453bcea72cb63e7f1
+2012-04-29T16:53:05.291957Z
+32
+hiepkhach7488
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1539
+
+opengl_vertex_array
+dir
+
+opengl_texture_buffer_fbo
+dir
+
+opengl_geometry_cloud
+dir
+
+pcl_cloud_fusion
+dir
+
+opengl_vbo
+dir
+
+opengl_cg_vertex
+dir
+
+opengl_format_test
+dir
+
+multicam_fusion
+dir
+
+opengl_buffer_access
+dir
+
+opengl_v3d_test
+dir
+
+robust_planar_pose
+dir
+
+pose_estimation
+dir
+
+opengl_pointcloud_renderer
+dir
+
+opengl_cg_segmentation
+dir
+
+kinfu_app
+dir
+

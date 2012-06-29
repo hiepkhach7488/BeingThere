@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda
+END
+marching_cubes.cu
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/marching_cubes.cu
+END
+extract.cu
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/extract.cu
+END
+coresp.cu
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/coresp.cu
+END
+estimate_combined.cu
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/estimate_combined.cu
+END
+ray_caster.cu
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/ray_caster.cu
+END
+device.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/device.hpp
+END
+maps.cu
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/maps.cu
+END
+bilateral_pyrdown.cu
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/bilateral_pyrdown.cu
+END
+colors.cu
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/colors.cu
+END
+normals_eigen.cu
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/normals_eigen.cu
+END
+estimate_tranform.cu
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/estimate_tranform.cu
+END
+tsdf_volume.cu
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/tsdf_volume.cu
+END
+image_generator.cu
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_kinfu/src/cuda/image_generator.cu
+END

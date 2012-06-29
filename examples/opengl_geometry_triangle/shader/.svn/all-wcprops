@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/20/examples/opengl_geometry_triangle/shader
+END
+geometry_triangle.vert
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/beingthere_tp/!svn/ver/20/examples/opengl_geometry_triangle/shader/geometry_triangle.vert
+END
+geometry_triangle.geom
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/beingthere_tp/!svn/ver/20/examples/opengl_geometry_triangle/shader/geometry_triangle.geom
+END
+geometry_triangle.frag
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/beingthere_tp/!svn/ver/20/examples/opengl_geometry_triangle/shader/geometry_triangle.frag
+END

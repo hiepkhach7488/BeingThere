@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/27/examples/opengl_ethz_test/shader
+END
+binary_segmentation_uzawa_update_p.cg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/shader/binary_segmentation_uzawa_update_p.cg
+END
+copy.fs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/shader/copy.fs
+END
+depth_inpainting_relaxed_update_p.cg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/shader/depth_inpainting_relaxed_update_p.cg
+END
+vertex.vs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/shader/vertex.vs
+END
+binary_segmentation_uzawa_update_u.cg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/shader/binary_segmentation_uzawa_update_u.cg
+END
+depth_inpainting_relaxed_update_u.cg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/shader/depth_inpainting_relaxed_update_u.cg
+END
+depth_to_rgb.fs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/shader/depth_to_rgb.fs
+END
+texture.fs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/shader/texture.fs
+END
+undistort_parametric.cg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/beingthere_tp/!svn/ver/26/examples/opengl_ethz_test/shader/undistort_parametric.cg
+END
+depth_over_color.frag
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/beingthere_tp/!svn/ver/27/examples/opengl_ethz_test/shader/depth_over_color.frag
+END

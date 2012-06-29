@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/beingthere_tp/!svn/ver/39/examples/multicam_capture_sdk
+END
+multicam_capture_sdk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/beingthere_tp/!svn/ver/39/examples/multicam_capture_sdk/multicam_capture_sdk.cpp
+END
+nui_sensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/39/examples/multicam_capture_sdk/nui_sensor.cpp
+END
+nui_sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/38/examples/multicam_capture_sdk/nui_sensor.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/37/examples/multicam_capture_sdk/CMakeLists.txt
+END

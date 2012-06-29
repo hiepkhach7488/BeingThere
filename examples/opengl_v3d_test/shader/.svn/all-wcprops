@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/42/examples/opengl_v3d_test/shader
+END
+convert_ushort_to_float.fs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/beingthere_tp/!svn/ver/41/examples/opengl_v3d_test/shader/convert_ushort_to_float.fs
+END
+convert_float_to_ushort.fs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/beingthere_tp/!svn/ver/41/examples/opengl_v3d_test/shader/convert_float_to_ushort.fs
+END
+mask_depth.fs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_v3d_test/shader/mask_depth.fs
+END
+identity_texture.frag
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_v3d_test/shader/identity_texture.frag
+END
+truncate_rgb_from_depth.fs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/beingthere_tp/!svn/ver/41/examples/opengl_v3d_test/shader/truncate_rgb_from_depth.fs
+END
+mask_color_border.fs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_v3d_test/shader/mask_color_border.fs
+END
+geometry_triangle.frag
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_v3d_test/shader/geometry_triangle.frag
+END
+geometry_triangle.vert
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_v3d_test/shader/geometry_triangle.vert
+END
+mask_color.fs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_v3d_test/shader/mask_color.fs
+END
+depth_inpainting_relaxed_update_p.cg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_v3d_test/shader/depth_inpainting_relaxed_update_p.cg
+END
+vertex.vs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_v3d_test/shader/vertex.vs
+END
+truncate_depth_float.fs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/beingthere_tp/!svn/ver/41/examples/opengl_v3d_test/shader/truncate_depth_float.fs
+END
+geometry_triangle.geom
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_v3d_test/shader/geometry_triangle.geom
+END
+depth_inpainting_relaxed_update_u.cg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_v3d_test/shader/depth_inpainting_relaxed_update_u.cg
+END
+texture.fs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_v3d_test/shader/texture.fs
+END
+depth_to_rgb.fs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/beingthere_tp/!svn/ver/41/examples/opengl_v3d_test/shader/depth_to_rgb.fs
+END
+depth_over_color.frag
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_v3d_test/shader/depth_over_color.frag
+END
+ushort_depth_to_rgb.fs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/beingthere_tp/!svn/ver/42/examples/opengl_v3d_test/shader/ushort_depth_to_rgb.fs
+END

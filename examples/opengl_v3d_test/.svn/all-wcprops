@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/beingthere_tp/!svn/ver/42/examples/opengl_v3d_test
+END
+v3d_segmentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/41/examples/opengl_v3d_test/v3d_segmentation.h
+END
+opengl_v3d_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/42/examples/opengl_v3d_test/opengl_v3d_test.cpp
+END
+v3d_depth_inpainting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_v3d_test/v3d_depth_inpainting.cpp
+END
+v3d_common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/41/examples/opengl_v3d_test/v3d_common.cpp
+END
+v3d_depth_inpainting.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_v3d_test/v3d_depth_inpainting.h
+END
+v3d_shaders.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/42/examples/opengl_v3d_test/v3d_shaders.cpp
+END
+v3d_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/41/examples/opengl_v3d_test/v3d_common.h
+END
+v3d_common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/35/examples/opengl_v3d_test/v3d_common.hpp
+END
+v3d_segmentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/41/examples/opengl_v3d_test/v3d_segmentation.cpp
+END
+v3d_shaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/42/examples/opengl_v3d_test/v3d_shaders.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_v3d_test/CMakeLists.txt
+END

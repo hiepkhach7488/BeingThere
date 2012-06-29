@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/beingthere_tp/!svn/ver/11/externals/glm
+END
+glm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/beingthere_tp/!svn/ver/11/externals/glm/glm.hpp
+END
+ext.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/beingthere_tp/!svn/ver/11/externals/glm/ext.hpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/11/externals/glm/CMakeLists.txt
+END

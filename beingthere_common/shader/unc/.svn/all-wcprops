@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc
+END
+triangles_passthru.vert
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/triangles_passthru.vert
+END
+median25.frag
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/median25.frag
+END
+median9.frag
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/median9.frag
+END
+light.frag
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/light.frag
+END
+triangle_fusion.frag
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/triangle_fusion.frag
+END
+triangle_fusion.vert
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/triangle_fusion.vert
+END
+dummy.vert
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/dummy.vert
+END
+qualityMetric.frag
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/qualityMetric.frag
+END
+bilateral.frag
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/bilateral.frag
+END
+point_cloud.frag
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/point_cloud.frag
+END
+point_cloud.vert
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/point_cloud.vert
+END
+triangle_fusion.geom
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/triangle_fusion.geom
+END
+triangles.geom
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/unc/triangles.geom
+END

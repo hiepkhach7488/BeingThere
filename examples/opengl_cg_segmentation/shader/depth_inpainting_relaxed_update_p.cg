@@ -1,0 +1,46 @@
+float tv(float2 u_grad)
+{
+   return length(u_grad);
+}
+
+void main(uniform sampler2D u_src    : TEXUNIT0,
+          uniform sampler2D p_src    : TEXUNIT1, // (p1, p2)
+		  uniform sampler2D weights_src : TEXUNIT3,
+                  float2 st0  : TEXCOORD0,
+                  float4 stEW : TEXCOORD1,
+                  float4 stSN : TEXCOORD2,
+          uniform float timestep_over_theta,
+              out float2 p_out : COLOR0)
+{
+   float const eps = 0.001f;
+
+   float2 const weights = tex2D(weights_src, st0).xy;
+   //float2 weights = float2(1);
+
+   float  u = tex2D(u_src, st0).x;
+   float2 u_ES = float2(0);
+
+   float2 stE = stEW.xy;
+   float2 stS = stSN.xy;
+
+   u_ES.x = tex2D(u_src, stE).x;
+   u_ES.y = tex2D(u_src, stS).x;
+
+   float2 p = tex2D(p_src, st0);
+
+   // The right clamping mode should handle the boundary conditions.
+   float2 u_grad = u_ES - u.xx;
+
+   p += timestep_over_theta * (u_grad - eps*p);
+#if 0
+   p /= max(1.0f, tv(p));
+#else
+   p = clamp(p, -weights, weights);
+#endif
+
+   p = (u >= 0) ? p : float2(0.0f);
+   p.x = (u_ES.x >= 0) ? p.x : 0.0f;
+   p.y = (u_ES.y >= 0) ? p.y : 0.0f;
+
+   p_out = p;
+}

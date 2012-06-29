@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/beingthere_tp/!svn/ver/24/beingthere_v3d/Base
+END
+v3d_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/24/beingthere_v3d/Base/v3d_image.cpp
+END
+v3d_serialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/24/beingthere_v3d/Base/v3d_serialization.h
+END
+v3d_exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/24/beingthere_v3d/Base/v3d_exception.h
+END
+v3d_imageprocessing.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/24/beingthere_v3d/Base/v3d_imageprocessing.h
+END
+v3d_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/24/beingthere_v3d/Base/v3d_timer.h
+END
+v3d_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/24/beingthere_v3d/Base/v3d_image.h
+END

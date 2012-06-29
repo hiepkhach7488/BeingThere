@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_cg_segmentation
+END
+fgbg_segmentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beingthere_tp/!svn/ver/31/examples/opengl_cg_segmentation/fgbg_segmentation.cpp
+END
+depth_inpainting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_cg_segmentation/depth_inpainting.cpp
+END
+fgbg_segmentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/beingthere_tp/!svn/ver/27/examples/opengl_cg_segmentation/fgbg_segmentation.h
+END
+depth_inpainting.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_cg_segmentation/depth_inpainting.h
+END
+opengl_cg_segmentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/beingthere_tp/!svn/ver/39/examples/opengl_cg_segmentation/opengl_cg_segmentation.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_cg_segmentation/CMakeLists.txt
+END

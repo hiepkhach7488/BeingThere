@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/19/examples/opengl_geometry_cloud/shader
+END
+geometry_cloud.frag
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/beingthere_tp/!svn/ver/19/examples/opengl_geometry_cloud/shader/geometry_cloud.frag
+END
+geometry_cloud.vert
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/beingthere_tp/!svn/ver/19/examples/opengl_geometry_cloud/shader/geometry_cloud.vert
+END
+geometry_cloud.geom
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/beingthere_tp/!svn/ver/19/examples/opengl_geometry_cloud/shader/geometry_cloud.geom
+END

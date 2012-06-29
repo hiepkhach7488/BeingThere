@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/29/examples/opengl_triangle_fusion/shader
+END
+triangles_passthru.vert
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/beingthere_tp/!svn/ver/21/examples/opengl_triangle_fusion/shader/triangles_passthru.vert
+END
+median25.frag
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/beingthere_tp/!svn/ver/28/examples/opengl_triangle_fusion/shader/median25.frag
+END
+median9.frag
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/beingthere_tp/!svn/ver/28/examples/opengl_triangle_fusion/shader/median9.frag
+END
+light.frag
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/beingthere_tp/!svn/ver/21/examples/opengl_triangle_fusion/shader/light.frag
+END
+triangle_fusion.frag
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/beingthere_tp/!svn/ver/29/examples/opengl_triangle_fusion/shader/triangle_fusion.frag
+END
+identity_texture.frag
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/beingthere_tp/!svn/ver/28/examples/opengl_triangle_fusion/shader/identity_texture.frag
+END
+triangle_fusion.vert
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/beingthere_tp/!svn/ver/21/examples/opengl_triangle_fusion/shader/triangle_fusion.vert
+END
+dummy.vert
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/beingthere_tp/!svn/ver/21/examples/opengl_triangle_fusion/shader/dummy.vert
+END
+qualityMetric.frag
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/beingthere_tp/!svn/ver/29/examples/opengl_triangle_fusion/shader/qualityMetric.frag
+END
+bilateral.frag
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beingthere_tp/!svn/ver/28/examples/opengl_triangle_fusion/shader/bilateral.frag
+END
+point_cloud.frag
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/beingthere_tp/!svn/ver/23/examples/opengl_triangle_fusion/shader/point_cloud.frag
+END
+point_cloud.vert
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/beingthere_tp/!svn/ver/23/examples/opengl_triangle_fusion/shader/point_cloud.vert
+END
+triangle_fusion.geom
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/beingthere_tp/!svn/ver/29/examples/opengl_triangle_fusion/shader/triangle_fusion.geom
+END
+triangles.geom
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beingthere_tp/!svn/ver/21/examples/opengl_triangle_fusion/shader/triangles.geom
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_cg_vertex
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_cg_vertex/CMakeLists.txt
+END
+opengl_cg_vert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_cg_vertex/opengl_cg_vert.cpp
+END

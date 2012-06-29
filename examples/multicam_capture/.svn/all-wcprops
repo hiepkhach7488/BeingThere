@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/beingthere_tp/!svn/ver/39/examples/multicam_capture
+END
+multicam_capture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beingthere_tp/!svn/ver/39/examples/multicam_capture/multicam_capture.cpp
+END
+openni_capture.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/10/examples/multicam_capture/openni_capture.h
+END
+capture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/10/examples/multicam_capture/capture.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/32/examples/multicam_capture/CMakeLists.txt
+END

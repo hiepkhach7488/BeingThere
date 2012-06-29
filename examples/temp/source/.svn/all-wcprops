@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/beingthere_tp/!svn/ver/1/examples/temp/source
+END
+kinect_visualization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/1/examples/temp/source/kinect_visualization.cpp
+END
+kinect_capture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/1/examples/temp/source/kinect_capture.cpp
+END
+capture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/1/examples/temp/source/capture.cpp
+END
+Filesystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/1/examples/temp/source/Filesystem.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/1/examples/temp/source/main.cpp
+END
+FileSequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/beingthere_tp/!svn/ver/1/examples/temp/source/FileSequence.cpp
+END
+volumemetric_rendering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beingthere_tp/!svn/ver/1/examples/temp/source/volumemetric_rendering.cpp
+END
+fusion_renderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/1/examples/temp/source/fusion_renderer.cpp
+END
+ImageSequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/1/examples/temp/source/ImageSequence.cpp
+END

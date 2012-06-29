@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_draw_primitives
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beingthere_tp/!svn/ver/32/examples/opengl_draw_primitives/CMakeLists.txt
+END
+opengl_draw_primitives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/beingthere_tp/!svn/ver/20/examples/opengl_draw_primitives/opengl_draw_primitives.cpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/beingthere_tp/!svn/ver/32/cmake
+END
+CMakeParseArguments.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/beingthere_tp/!svn/ver/6/cmake/CMakeParseArguments.cmake
+END
+MacroExampleApplication.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/32/cmake/MacroExampleApplication.cmake
+END
+pcl_targets.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/beingthere_tp/!svn/ver/6/cmake/pcl_targets.cmake
+END
+FindCG.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/beingthere_tp/!svn/ver/24/cmake/FindCG.cmake
+END
+CudaComputeTargetFlags.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/1/cmake/CudaComputeTargetFlags.cmake
+END
+pcl_utils.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/beingthere_tp/!svn/ver/6/cmake/pcl_utils.cmake
+END
+MacroOptionalAddSubdirectory.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/32/cmake/MacroOptionalAddSubdirectory.cmake
+END

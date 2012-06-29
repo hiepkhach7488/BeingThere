@@ -1,0 +1,258 @@
+#include "common.h"
+
+#include "pcl/gpu/utils/device/limits.hpp"
+#include "pcl/gpu/utils/device/vector_math.hpp"
+
+using namespace pcl::device;
+using namespace pcl::gpu;
+
+namespace beingthere{
+	namespace gpu{
+
+		__device__ __forceinline__ float3
+			operator* (const Mat33& m, const float3& vec){
+				return make_float3 (dot (m.data[0], vec), dot (m.data[1], vec), dot (m.data[2], vec));
+		}
+
+		//Truncate Depth Kernel
+		__global__ void
+			truncateDepthKernel(PtrStepSz<ushort> depth, ushort max_distance_mm)
+		{
+			int x = blockIdx.x * blockDim.x + threadIdx.x;
+			int y = blockIdx.y * blockDim.y + threadIdx.y;
+
+			if (x < depth.cols && y < depth.rows)		
+				if(depth.ptr(y)[x] > max_distance_mm)
+					depth.ptr(y)[x] = 0;
+		}
+
+		__global__ void
+			computeVmapKernel (const PtrStepSz<unsigned short> depth, PtrStep<float> vmap, float fx_inv, float fy_inv, float cx, float cy)
+		{
+			int u = threadIdx.x + blockIdx.x * blockDim.x;
+			int v = threadIdx.y + blockIdx.y * blockDim.y;
+
+			if (u < depth.cols && v < depth.rows)
+			{
+				float z = depth.ptr (v)[u] / 1000.f; // load and convert: mm -> meters
+
+				if (z != 0)
+				{
+					float vx = z * (u - cx) * fx_inv;
+					float vy = z * (v - cy) * fy_inv;
+					float vz = z;
+
+					vmap.ptr (v                 )[u] = vx;
+					vmap.ptr (v + depth.rows    )[u] = vy;
+					vmap.ptr (v + depth.rows * 2)[u] = vz;
+				}
+				else
+					vmap.ptr (v)[u] = numeric_limits<float>::quiet_NaN ();
+
+			}
+		}
+
+		__global__ void
+			computeNmapKernel (int rows, int cols, const PtrStep<float> vmap, PtrStep<float> nmap)
+		{
+			int u = threadIdx.x + blockIdx.x * blockDim.x;
+			int v = threadIdx.y + blockIdx.y * blockDim.y;
+
+			if (u >= cols || v >= rows)
+				return;
+
+			if (u == cols - 1 || v == rows - 1)
+			{
+				nmap.ptr (v)[u] = numeric_limits<float>::quiet_NaN ();
+				return;
+			}
+
+			float3 v00, v01, v10;
+			v00.x = vmap.ptr (v  )[u];
+			v01.x = vmap.ptr (v  )[u + 1];
+			v10.x = vmap.ptr (v + 1)[u];
+
+			if (!isnan (v00.x) && !isnan (v01.x) && !isnan (v10.x))
+			{
+				v00.y = vmap.ptr (v + rows)[u];
+				v01.y = vmap.ptr (v + rows)[u + 1];
+				v10.y = vmap.ptr (v + 1 + rows)[u];
+
+				v00.z = vmap.ptr (v + 2 * rows)[u];
+				v01.z = vmap.ptr (v + 2 * rows)[u + 1];
+				v10.z = vmap.ptr (v + 1 + 2 * rows)[u];
+
+				float3 r = normalized (cross (v01 - v00, v10 - v00));
+
+				nmap.ptr (v       )[u] = r.x;
+				nmap.ptr (v + rows)[u] = r.y;
+				nmap.ptr (v + 2 * rows)[u] = r.z;
+			}
+			else
+				nmap.ptr (v)[u] = numeric_limits<float>::quiet_NaN ();
+		}
+
+		__global__ void
+			tranformMapsKernel (int rows, int cols, const PtrStep<float> vmap_src, const PtrStep<float> nmap_src,
+			const Mat33 Rmat, const float3 tvec, PtrStepSz<float> vmap_dst, PtrStep<float> nmap_dst)
+		{
+			int x = threadIdx.x + blockIdx.x * blockDim.x;
+			int y = threadIdx.y + blockIdx.y * blockDim.y;
+
+			const float qnan = pcl::device::numeric_limits<float>::quiet_NaN ();
+
+			if (x < cols && y < rows)
+			{
+				//vetexes
+				float3 vsrc, vdst = make_float3 (qnan, qnan, qnan);
+				vsrc.x = vmap_src.ptr (y)[x];
+
+				if (!isnan (vsrc.x))
+				{
+					vsrc.y = vmap_src.ptr (y + rows)[x];
+					vsrc.z = vmap_src.ptr (y + 2 * rows)[x];
+
+					vdst = Rmat * vsrc + tvec;
+
+					vmap_dst.ptr (y + rows)[x] = vdst.y;
+					vmap_dst.ptr (y + 2 * rows)[x] = vdst.z;
+				}
+
+				vmap_dst.ptr (y)[x] = vdst.x;
+
+				//normals
+				float3 nsrc, ndst = make_float3 (qnan, qnan, qnan);
+				nsrc.x = nmap_src.ptr (y)[x];
+
+				if (!isnan (nsrc.x))
+				{
+					nsrc.y = nmap_src.ptr (y + rows)[x];
+					nsrc.z = nmap_src.ptr (y + 2 * rows)[x];
+
+					ndst = Rmat * nsrc;
+
+					nmap_dst.ptr (y + rows)[x] = ndst.y;
+					nmap_dst.ptr (y + 2 * rows)[x] = ndst.z;
+				}
+
+				nmap_dst.ptr (y)[x] = ndst.x;
+			}
+		}
+
+		template<typename T>
+		__global__ void
+			convertMapKernel (int rows, int cols, const PtrStep<float> map, PtrStep<T> output)
+		{
+			int x = threadIdx.x + blockIdx.x * blockDim.x;
+			int y = threadIdx.y + blockIdx.y * blockDim.y;
+
+			if (x >= cols || y >= rows)
+				return;
+
+			const float qnan = numeric_limits<float>::quiet_NaN ();
+
+			T t;
+			t.x = map.ptr (y)[x];
+			if (!isnan (t.x))
+			{
+				t.y = map.ptr (y + rows)[x];
+				t.z = map.ptr (y + 2 * rows)[x];
+			}
+			else
+				t.y = t.z = qnan;
+
+			output.ptr (y)[x] = t;
+		}
+
+	}//end namespace gpu
+}//end namespace beingthere
+
+
+void 
+	beingthere::gpu::truncateDepth(DepthMap& depth, float max_distance)
+{
+	dim3 block (32, 8);
+	dim3 grid (divUp (depth.cols (), block.x), divUp (depth.rows (), block.y));
+
+	truncateDepthKernel<<<grid, block>>>(depth, static_cast<ushort>(max_distance * 1000.f));
+
+	cudaSafeCall ( cudaGetLastError () );
+}
+
+
+void
+	beingthere::gpu::createVMap (const Intr& intr, const DepthMap& depth, MapArr& vmap)
+{
+	vmap.create (depth.rows () * 3, depth.cols ());
+
+	dim3 block (32, 8);
+	dim3 grid (1, 1, 1);
+	grid.x = divUp (depth.cols (), block.x);
+	grid.y = divUp (depth.rows (), block.y);
+
+	float fx = intr.fx, cx = intr.cx;
+	float fy = intr.fy, cy = intr.cy;
+
+	computeVmapKernel<<<grid, block>>>(depth, vmap, 1.f / fx, 1.f / fy, cx, cy);
+	cudaSafeCall (cudaGetLastError ());
+}
+
+
+void
+	beingthere::gpu::createNMap (const MapArr& vmap, MapArr& nmap)
+{
+	nmap.create (vmap.rows (), vmap.cols ());
+
+	int rows = vmap.rows () / 3;
+	int cols = vmap.cols ();
+
+	dim3 block (32, 8);
+	dim3 grid (1, 1, 1);
+	grid.x = divUp (cols, block.x);
+	grid.y = divUp (rows, block.y);
+
+	computeNmapKernel<<<grid, block>>>(rows, cols, vmap, nmap);
+	cudaSafeCall (cudaGetLastError ());
+}
+
+void
+	beingthere::gpu::tranformMaps (const MapArr& vmap_src, const MapArr& nmap_src,
+	const Mat33& Rmat, const float3& tvec,
+	MapArr& vmap_dst, MapArr& nmap_dst)
+{
+	int cols = vmap_src.cols ();
+	int rows = vmap_src.rows () / 3;
+
+	vmap_dst.create (rows * 3, cols);
+	nmap_dst.create (rows * 3, cols);
+
+	dim3 block (32, 8);
+	dim3 grid (1, 1, 1);
+	grid.x = divUp (cols, block.x);
+	grid.y = divUp (rows, block.y);
+
+	tranformMapsKernel<<<grid, block>>>(rows, cols, vmap_src, nmap_src, Rmat, tvec, vmap_dst, nmap_dst);
+	cudaSafeCall (cudaGetLastError ());
+
+	cudaSafeCall (cudaDeviceSynchronize ());
+}
+
+template<typename T> void
+	beingthere::gpu::convert (const MapArr& vmap, DeviceArray2D<T>& output)
+{
+	int cols = vmap.cols ();
+	int rows = vmap.rows () / 3;
+
+	output.create (rows, cols);
+
+	dim3 block (32, 8);
+	dim3 grid (divUp (cols, block.x), divUp (rows, block.y));
+
+	convertMapKernel<T><< < grid, block>>>(rows, cols, vmap, output);
+
+	cudaSafeCall ( cudaGetLastError () );
+	cudaSafeCall (cudaDeviceSynchronize ());
+}
+
+template void beingthere::gpu::convert (const MapArr& vmap, DeviceArray2D<float4>& output);
+template void beingthere::gpu::convert (const MapArr& vmap, DeviceArray2D<float8>& output);

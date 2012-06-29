@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/beingthere_tp/!svn/ver/30/examples/opengl_color_depth_segmentation/data/old
+END
+bg_depth.dat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/beingthere_tp/!svn/ver/30/examples/opengl_color_depth_segmentation/data/old/bg_depth.dat
+END
+cur_depth.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/beingthere_tp/!svn/ver/30/examples/opengl_color_depth_segmentation/data/old/cur_depth.dat
+END
+bg_color.dat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/beingthere_tp/!svn/ver/30/examples/opengl_color_depth_segmentation/data/old/bg_color.dat
+END
+cur_color.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/beingthere_tp/!svn/ver/30/examples/opengl_color_depth_segmentation/data/old/cur_color.dat
+END

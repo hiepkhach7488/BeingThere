@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_format_test
+END
+v3d_common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_format_test/v3d_common.cpp
+END
+v3d_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_format_test/v3d_common.h
+END
+v3d_common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_format_test/v3d_common.hpp
+END
+opengl_format_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_format_test/opengl_format_test.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/40/examples/opengl_format_test/CMakeLists.txt
+END

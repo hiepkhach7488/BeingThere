@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/beingthere_tp/!svn/ver/6/examples/pose_estimation
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/1/examples/pose_estimation/internal.h
+END
+pose_tracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/4/examples/pose_estimation/pose_tracker.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/4/examples/pose_estimation/main.cpp
+END
+pose_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/2/examples/pose_estimation/pose_tracker.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/beingthere_tp/!svn/ver/6/examples/pose_estimation/CMakeLists.txt
+END

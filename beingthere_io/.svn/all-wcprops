@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/beingthere_tp/!svn/ver/32/beingthere_io
+END
+ImageSequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/1/beingthere_io/ImageSequence.h
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/beingthere_tp/!svn/ver/1/beingthere_io/Exception.h
+END
+Filesystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/beingthere_tp/!svn/ver/1/beingthere_io/Filesystem.cpp
+END
+PlainFileParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/beingthere_tp/!svn/ver/1/beingthere_io/PlainFileParser.h
+END
+FileSequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/beingthere_tp/!svn/ver/1/beingthere_io/FileSequence.cpp
+END
+Filesystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/beingthere_tp/!svn/ver/1/beingthere_io/Filesystem.h
+END
+macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/beingthere_tp/!svn/ver/1/beingthere_io/macros.h
+END
+ImageSequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/beingthere_tp/!svn/ver/1/beingthere_io/ImageSequence.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/32/beingthere_io/CMakeLists.txt
+END
+FileSequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/beingthere_tp/!svn/ver/1/beingthere_io/FileSequence.h
+END

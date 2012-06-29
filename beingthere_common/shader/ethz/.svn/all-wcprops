@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/ethz
+END
+binary_segmentation_uzawa_update_p.cg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/ethz/binary_segmentation_uzawa_update_p.cg
+END
+copy.fs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/ethz/copy.fs
+END
+depth_inpainting_relaxed_update_p.cg
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/ethz/depth_inpainting_relaxed_update_p.cg
+END
+vertex.vs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/ethz/vertex.vs
+END
+binary_segmentation_uzawa_update_u.cg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/ethz/binary_segmentation_uzawa_update_u.cg
+END
+depth_inpainting_relaxed_update_u.cg
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/ethz/depth_inpainting_relaxed_update_u.cg
+END
+depth_to_rgb.fs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/ethz/depth_to_rgb.fs
+END
+texture.fs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/ethz/texture.fs
+END
+undistort_parametric.cg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/ethz/undistort_parametric.cg
+END
+depth_over_color.frag
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/beingthere_tp/!svn/ver/32/beingthere_common/shader/ethz/depth_over_color.frag
+END

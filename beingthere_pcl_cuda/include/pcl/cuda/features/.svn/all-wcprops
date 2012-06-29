@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/features
+END
+normal_3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/features/normal_3d.h
+END
+normal_3d_kernels.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/beingthere_tp/!svn/ver/32/beingthere_pcl_cuda/include/pcl/cuda/features/normal_3d_kernels.h
+END

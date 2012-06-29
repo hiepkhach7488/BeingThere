@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core
+END
+func_geometric.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_geometric.hpp
+END
+type_int.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_int.hpp
+END
+func_trigonometric.inl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_trigonometric.inl
+END
+func_trigonometric.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_trigonometric.hpp
+END
+type_vec.inl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_vec.inl
+END
+type_mat3x2.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat3x2.inl
+END
+func_matrix.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_matrix.inl
+END
+type_mat3x3.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat3x3.inl
+END
+type_mat3x4.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat3x4.inl
+END
+_fixes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/_fixes.hpp
+END
+type_vec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_vec.hpp
+END
+type_mat3x2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat3x2.hpp
+END
+func_matrix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_matrix.hpp
+END
+type_mat3x3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat3x3.hpp
+END
+type_mat3x4.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat3x4.hpp
+END
+intrinsic_vector_relational.inl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_vector_relational.inl
+END
+type_vec1.inl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_vec1.inl
+END
+type_vec2.inl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_vec2.inl
+END
+func_exponential.inl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_exponential.inl
+END
+type_vec3.inl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_vec3.inl
+END
+type_vec4.inl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_vec4.inl
+END
+intrinsic_vector_relational.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_vector_relational.hpp
+END
+func_common.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_common.inl
+END
+type_vec1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_vec1.hpp
+END
+type_vec2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_vec2.hpp
+END
+func_exponential.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_exponential.hpp
+END
+_detail.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/_detail.hpp
+END
+type_vec3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_vec3.hpp
+END
+type_vec4.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_vec4.hpp
+END
+func_common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_common.hpp
+END
+intrinsic_exponential.inl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_exponential.inl
+END
+type_half.inl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_half.inl
+END
+_swizzle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/_swizzle.hpp
+END
+intrinsic_exponential.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_exponential.hpp
+END
+type_size.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_size.hpp
+END
+type_half.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_half.hpp
+END
+type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type.hpp
+END
+intrinsic_matrix.inl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_matrix.inl
+END
+func_packing.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_packing.inl
+END
+func_noise.inl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_noise.inl
+END
+intrinsic_matrix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_matrix.hpp
+END
+func_packing.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_packing.hpp
+END
+func_noise.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_noise.hpp
+END
+intrinsic_geometric.inl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_geometric.inl
+END
+intrinsic_geometric.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_geometric.hpp
+END
+intrinsic_trigonometric.inl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_trigonometric.inl
+END
+func_integer.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_integer.inl
+END
+intrinsic_common.inl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_common.inl
+END
+type_gentype.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_gentype.inl
+END
+intrinsic_trigonometric.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_trigonometric.hpp
+END
+func_integer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_integer.hpp
+END
+type_mat2x2.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat2x2.inl
+END
+type_mat2x3.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat2x3.inl
+END
+intrinsic_common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/intrinsic_common.hpp
+END
+type_mat4x2.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat4x2.inl
+END
+type_mat2x4.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat2x4.inl
+END
+type_mat4x3.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat4x3.inl
+END
+type_gentype.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_gentype.hpp
+END
+type_mat4x4.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat4x4.inl
+END
+type_mat.inl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat.inl
+END
+type_mat2x2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat2x2.hpp
+END
+type_mat2x3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat2x3.hpp
+END
+type_mat4x2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat4x2.hpp
+END
+type_mat2x4.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat2x4.hpp
+END
+type_mat4x3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat4x3.hpp
+END
+type_mat4x4.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat4x4.hpp
+END
+type_mat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_mat.hpp
+END
+func_vector_relational.inl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_vector_relational.inl
+END
+dummy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/dummy.cpp
+END
+func_vector_relational.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_vector_relational.hpp
+END
+setup.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/setup.hpp
+END
+hint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/hint.hpp
+END
+type_float.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/type_float.hpp
+END
+func_geometric.inl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/beingthere_tp/!svn/ver/11/externals/glm/core/func_geometric.inl
+END
