@@ -62,7 +62,9 @@ The CMakeList.txt usually contains something like the following:
   
  MACRO_EXAMPLE_APPLICATION(ARG0 OPENCV OPENGL)
 
-for linking your application with OpenCV, OpenGL (GLew, GLut). If you need to use cuda, PCL, CG, ... just need to add it at the end of the list: MACRO_EXAMPLE_APPLICATION(ARG0 OPENCV OPENGL PCL CG CUDA ....)
+for linking your application with OpenCV, OpenGL (GLew, GLut). If you need to use cuda, PCL, CG, ... just need to add it at the end of the list: 
+
+MACRO_EXAMPLE_APPLICATION(ARG0 OPENCV OPENGL PCL CG CUDA ....)
 
 ==HOW TO EXTEND==
 
