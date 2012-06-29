@@ -53,17 +53,19 @@ Cmake should be able to find PCL automatically and other packages. (FIND_PACKAGE
 7. After building, the build/ folder now contain the generated target IDE solutions. In window, open the solution in Visual Studio 10 and build as usual. In Linux, import the folder to Eclipse IDE. If there is some error in some projects, use make command to force it keep continue despite of error and modify the script later. In Linux, you might need to modify the code to get it running. Just need to add #ifdef _WIN32 #include Win32 Header #endif ... to some sections of the code.
 
 ==HOW TO USE==
+
 The linking process is written into Cmake MACRO. If you want to write your application using existing packages, libraries ... , you might create a new folder in example directories. Copy A CMakeList.txt into this folder. Put your source code into the folder as usual. 
 
-*The CMakeList.txt usually contains something like the following:
+The CMakeList.txt usually contains something like the following:
  
--INCLUDE(MacroExampleApplication)
+ INCLUDE(MacroExampleApplication)
   
--MACRO_EXAMPLE_APPLICATION(ARG0 OPENCV OPENGL)
+ MACRO_EXAMPLE_APPLICATION(ARG0 OPENCV OPENGL)
 
 for linking your application with OpenCV, OpenGL (GLew, GLut). If you need to use cuda, PCL, CG, ... just need to add it at the end of the list: MACRO_EXAMPLE_APPLICATION(ARG0 OPENCV OPENGL PCL CG CUDA ....)
 
 ==HOW TO EXTEND==
+
 The package provides you some data structures, algorithms for your to use in your codes. If you want to extend the system for your need, create a sub-package folder. Looking at CMakeLists.txt in other sub folder to see how to build software sub-package. 
 
 After you are familiar to the package, it doesn't take much time to extend, configure, use this package. It provides you a nice way to organize your own code or collaborate with other people... With this system, transfering code from one place to other place will never be easier.... 
