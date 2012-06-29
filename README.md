@@ -72,8 +72,6 @@ The package provides you some data structures, algorithms for your to use in you
 
 After you are familiar to the package, it doesn't take much time to extend, configure, use this package. It provides you a nice way to organize your own code or collaborate with other people... With this system, transfering code from one place to other place will never be easier.... 
 
-Feedback can be sent to nguy0066@e.ntu.edu.sg ...
-
 Thanks for viewing and having fun!!
 
 
