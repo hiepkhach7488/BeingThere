@@ -33,8 +33,8 @@ If you want to work in a team and struggle to find a way to organize work, colla
 4. Install CG Tooklit.
 5. Create Out-Of-Source Build Folder to build the package into. Suppose BeingThere folder has src/ folder which contains source code.
 
-  On CMakeLists.txt in top folder of source folder. Change the path to OpenCV Libraries: set(OpenCV_DIR OpenCV_PATH). 
-  Cmake should be able to find PCL automatically and other packages. (FIND_PACKAGE(PCL 1.5 REQUIRED)...)
+On CMakeLists.txt in top folder of source folder. Change the path to OpenCV Libraries: set(OpenCV_DIR OpenCV_PATH). 
+Cmake should be able to find PCL automatically and other packages. (FIND_PACKAGE(PCL 1.5 REQUIRED)...)
 
     * Using command line: 
 	-cd BeingThere
@@ -55,11 +55,11 @@ If you want to work in a team and struggle to find a way to organize work, colla
 ==HOW TO USE==
 The linking process is written into Cmake MACRO. If you want to write your application using existing packages, libraries ... , you might create a new folder in example directories. Copy A CMakeList.txt into this folder. Put your source code into the folder as usual. 
 
-The CMakeList.txt usually contains something like the following:
+*The CMakeList.txt usually contains something like the following:
  
-INCLUDE(MacroExampleApplication)
+-INCLUDE(MacroExampleApplication)
   
-MACRO_EXAMPLE_APPLICATION(ARG0 OPENCV OPENGL)
+-MACRO_EXAMPLE_APPLICATION(ARG0 OPENCV OPENGL)
 
 for linking your application with OpenCV, OpenGL (GLew, GLut). If you need to use cuda, PCL, CG, ... just need to add it at the end of the list: MACRO_EXAMPLE_APPLICATION(ARG0 OPENCV OPENGL PCL CG CUDA ....)
 
