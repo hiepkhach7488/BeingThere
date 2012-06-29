@@ -37,10 +37,10 @@ If you want to work in a team and struggle to find a way to organize work, colla
   Cmake should be able to find PCL automatically and other packages. (FIND_PACKAGE(PCL 1.5 REQUIRED)...)
 
     * Using command line: 
-  cd BeingThere
-	mkdir/md build
-	cd build
-	cmake -G"Visual Studio 10 - Win 64" ../src
+	-cd BeingThere
+	-mkdir/md build
+	-cd build
+	-cmake -G"Visual Studio 10 - Win 64" ../src
 
     * Using Cmake GUI 
 	-Navigate To Build/ and src/ folder.
