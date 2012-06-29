@@ -2,6 +2,7 @@ BeingThere Package
 ==========
 
 ==DESCRIPTION==
+
 This package is written mostly btw. Nov.11 to Mar.12 to provide a single framework to develop 3d-telepresence-related-projects.
 
 It incorporates works by UNC's and ETHZ's researchers, kinect fusion and more.... It is organized into several software sub-packages shipped together with cmake-build system, and serveral examples to test each part of the packages and projects separatedly.
@@ -9,6 +10,7 @@ It incorporates works by UNC's and ETHZ's researchers, kinect fusion and more...
 Designed as many popular cmake-based libraries (OpenCV, PCL...), this cmake-based package is cross-platform by design. It aims to be a large-scale project. However, due to short development time and lacking of man-power, the cmake script is only tested carefully in window OS. Some modifications are needed to make it work in other platforms such as linux, mac OS. 
 
 ==FEATURES==
+
 Some of the key features are:
 
 -It is cmake-based package. So it is portable, cross-platform, object-oriented and well-written... You choose your own OS, IDE...
