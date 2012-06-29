@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib
+END
+trans_k12_k02.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/trans_k12_k02.xml
+END
+trans_k12_k03.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/trans_k12_k03.xml
+END
+trans_k12_k05.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/trans_k12_k05.xml
+END
+trans_k12_k08.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/trans_k12_k08.xml
+END
+rot_k12_k01.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/rot_k12_k01.xml
+END
+rot_k12_k02.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/rot_k12_k02.xml
+END
+distort_rgb_k10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k10.xml
+END
+rot_k12_k03.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/rot_k12_k03.xml
+END
+distort_rgb_k11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k11.xml
+END
+distort_rgb_k12.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k12.xml
+END
+rot_k12_k05.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/rot_k12_k05.xml
+END
+rot_k12_k08.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/rot_k12_k08.xml
+END
+cam_rgb_k01.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k01.xml
+END
+cam_rgb_k02.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k02.xml
+END
+cam_rgb_k03.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k03.xml
+END
+cam_rgb_k04.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k04.xml
+END
+cam_rgb_k05.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k05.xml
+END
+cam_rgb_k06.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k06.xml
+END
+cam_rgb_k07.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k07.xml
+END
+cam_rgb_k08.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k08.xml
+END
+cam_rgb_k09.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k09.xml
+END
+trans_k01_k04.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/trans_k01_k04.xml
+END
+trans_k12_k11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/trans_k12_k11.xml
+END
+trans_k01_k07.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/trans_k01_k07.xml
+END
+trans_k01_k09.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/trans_k01_k09.xml
+END
+rot_k01_k04.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/rot_k01_k04.xml
+END
+distort_rgb_k01.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k01.xml
+END
+rot_k12_k11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/rot_k12_k11.xml
+END
+distort_rgb_k02.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k02.xml
+END
+distort_rgb_k03.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k03.xml
+END
+rot_k01_k07.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/rot_k01_k07.xml
+END
+distort_rgb_k04.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k04.xml
+END
+distort_rgb_k05.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k05.xml
+END
+rot_k01_k09.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/rot_k01_k09.xml
+END
+distort_rgb_k06.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k06.xml
+END
+distort_rgb_k07.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k07.xml
+END
+distort_rgb_k08.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k08.xml
+END
+distort_rgb_k09.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/distort_rgb_k09.xml
+END
+cam_rgb_k10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k10.xml
+END
+cam_rgb_k11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k11.xml
+END
+cam_rgb_k12.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/cam_rgb_k12.xml
+END
+trans_k12_k01.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/beingthere_tp/!svn/ver/32/resources/multi-cam/calib/trans_k12_k01.xml
+END
