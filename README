@@ -37,7 +37,7 @@ On CMakeLists.txt in top folder of source folder. Change the path to OpenCV Libr
 Cmake should be able to find PCL automatically and other packages. (FIND_PACKAGE(PCL 1.5 REQUIRED)...)
 
     * Using command line: 
-  -cd BeingThere
+        -cd BeingThere
 	-mkdir/md build
 	-cd build
 	-cmake -G"Visual Studio 10 - Win 64" ../src
